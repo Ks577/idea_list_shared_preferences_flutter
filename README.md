@@ -1,16 +1,18 @@
-# idea_list_shared_pref
+# idea list_app
 
-A new Flutter project.
+A simple Flutter application for managing ideas. The app allows users to create, read, update, and delete (CRUD) ideas using SharedPreferences for local storage.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- Add ideas and save them locally
+- Edit saved ideas
+- Delete unwanted ideas
+- Data persists using SharedPreferences
 
-A few resources to get you started if this is your first Flutter project:
+# Used Packages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+shared_preferences.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Preview
+
+![](assets/images/idea.gif) 
