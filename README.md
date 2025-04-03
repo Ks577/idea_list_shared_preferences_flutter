@@ -1,4 +1,4 @@
-# idea list_app
+# List of Ideas App
 
 A simple Flutter application for managing ideas. The app allows users to create, read, update, and delete (CRUD) ideas using SharedPreferences for local storage.
 
